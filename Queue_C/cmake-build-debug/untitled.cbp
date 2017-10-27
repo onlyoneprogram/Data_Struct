@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/wangxy/CLionProjects/Queue_C/MyQueue.h">
-			<Option target="untitled"/>
-		</Unit>
 		<Unit filename="/home/wangxy/CLionProjects/Queue_C/main.c">
 			<Option target="untitled"/>
 		</Unit>
